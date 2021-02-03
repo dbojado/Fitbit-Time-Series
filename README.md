@@ -1,4 +1,4 @@
-# Fitbit Time Series 
+# Fitbit Time Series Project
 
 ## About the Project
 For this project we will be using machine learning time series methodologies 
